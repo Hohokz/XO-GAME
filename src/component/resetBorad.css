@@ -1,0 +1,10 @@
+.resetborad-btn {
+    color: white;
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+    margin: 2rem auto;
+    border: none;
+    border-radius: 0.5rem;
+    background-color: rgb(30, 30, 30);
+    display: block;
+}
