@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/XO-game/static/css/main.e1e081e3.css",
+    "main.css": "/XO-game/static/css/main.b96fd469.css",
     "main.js": "/XO-game/static/js/main.2eab818f.js",
     "index.html": "/XO-game/index.html",
-    "main.e1e081e3.css.map": "/XO-game/static/css/main.e1e081e3.css.map",
+    "main.b96fd469.css.map": "/XO-game/static/css/main.b96fd469.css.map",
     "main.2eab818f.js.map": "/XO-game/static/js/main.2eab818f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1e081e3.css",
+    "static/css/main.b96fd469.css",
     "static/js/main.2eab818f.js"
   ]
 }
